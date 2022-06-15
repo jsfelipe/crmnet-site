@@ -53,8 +53,8 @@ function FunilDeVendas() {
                     </div>
                     <div className="col-lg-7 col-md-12">
                       <h2>Melhore a performance da sua empresa com os funis</h2>
-                      <p>Crie os seus funis de vendas no Meets cadastrando todas as etapas que você e a sua equipe comercial vão seguir, definindo os passos até chegar na venda final.</p>
-                      <p>Além disso, no Meets você também pode criar múltiplos funis de atendimento para organizar melhor seu fluxo de vendas e atendimento. Ou mesmo usar alguns modelos que já temos disponível.</p>
+                      <p>Crie os seus funis de vendas no CRMNet cadastrando todas as etapas que você e a sua equipe comercial vão seguir, definindo os passos até chegar na venda final.</p>
+                      <p>Além disso, no CRMNet você também pode criar múltiplos funis de atendimento para organizar melhor seu fluxo de vendas e atendimento. Ou mesmo usar alguns modelos que já temos disponível.</p>
                       <p>Você pode visualizar as suas oportunidades em grade e ficar por dentro de todas elas. Visualizando cada uma, você pode mudar uma oportunidade de etapa no seu funil de vendas, tudo muito rápido e com total praticidade de uma ação arraste e solte.</p>
                     </div> 
                 </div> 

@@ -29,13 +29,12 @@ function PoliticaDePrivacidade() {
                 <div className="row pb-5">
                     <div className="col-lg-12 col-sm-12 p-5">
                         <h5 className="strong">Politica de privacidade</h5>
-                        <p>Leia com atenção os termos que regem nossa relação. Antes de usar o Meets é importante que você leia e concorde com nossa política. Ao efetuar seu cadastro para utilização dos serviços, você concorda com nossa política, sem modificações.</p>
+                        <p>Leia com atenção os termos que regem nossa relação. Antes de usar o CRMNet é importante que você leia e concorde com nossa política. Ao efetuar seu cadastro para utilização dos serviços, você concorda com nossa política, sem modificações.</p>
 
                         <h5 className="strong">Proprietário e Controlador de Dados</h5>
                         <p>Unity Brasil Tecnologia da Informação Ltda – CNPJ 06.013.344/0001-11</p>
                         <p>Rua Professor Aloísio Pessoa de Araújo, 80, sala 304, Recife/PE</p>
-                        <p>Meets Tecnologia da Informação Ltda - CNPJ 45.372.261/0001-70</p>
-                        <p>Rua Professor Aloísio Pessoa de Araújo, 80, sala 304, Recife/PE</p>
+                        
 
                         <h5 className="strong">Tipos de Dados coletados</h5>
                         <p>Entre os tipos de Dados Pessoais que esta  Ferramenta/Aplicativo coleta, por si mesmo ou através de terceiros, existem: Cookie; Dados de uso. Detalhes completos sobre cada tipo de Dados Pessoais coletados são fornecidos nas seções dedicadas desta política de privacidade ou por textos explicativos específicos exibidos antes da coleta de Dados. Os Dados Pessoais poderão ser fornecidos livremente pelo Usuário, ou, no caso dos Dados de Utilização, coletados automaticamente ao se utilizar este Aplicativo. A menos que especificado diferentemente todos os Dados solicitados por este Aplicativo são obrigatórios e a falta de fornecimento destes Dados poderá impossibilitar este Aplicativo de fornecer os seus Serviços. Nos casos em que este Aplicativo afirmar especificamente que alguns Dados não forem obrigatórios, os Usuários ficam livres para deixarem de comunicar estes Dados sem nenhuma consequência para a disponibilidade ou o funcionamento do Serviço. Os Usuários que tiverem dúvidas a respeito de quais Dados Pessoais são obrigatórios estão convidados a entrar em contato com o Proprietário. Quaisquer usos de cookies – ou de outras ferramentas de rastreamento – por este Aplicativo ou pelos proprietários de serviços terceiros utilizados por este Aplicativo serão para a finalidade de fornecer os Serviços solicitados pelo Usuário, além das demais finalidades descritas no presente documento e na Política de Cookies, se estiver disponível.</p>

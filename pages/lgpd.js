@@ -29,7 +29,7 @@ function Lgpd() {
                 <div className="row pb-5">
                     <div className="col-lg-12 col-sm-12 p-5">
                         <h5 className="strong">Politica de privacidade</h5>
-                        <p>Leia com atenção os termos que regem nossa relação. Antes de usar o Meets é importante que você leia e concorde com nossa política. Ao efetuar seu cadastro para utilização dos serviços, você concorda com nossa política, sem modificações.</p>
+                        <p>Leia com atenção os termos que regem nossa relação. Antes de usar o CRMNet é importante que você leia e concorde com nossa política. Ao efetuar seu cadastro para utilização dos serviços, você concorda com nossa política, sem modificações.</p>
 
                         <h5 className="strong">Proprietário e Controlador de Dados</h5>
                         <p>Unity Brasil Tecnologia da Informação Ltda – CNPJ 06.013.344/0001-11</p>

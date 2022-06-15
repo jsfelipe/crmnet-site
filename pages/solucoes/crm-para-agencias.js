@@ -36,7 +36,7 @@ function crmParaFranquias() {
                     </div>
                     <div className="col-lg-7 col-sm-7">
                     <h2 className="pt-mob">Integrações</h2>
-                    <p>Com o Meets, as integrações estarão disponíveis para facilitar pagamentos, cadastro de oportunidades e auxiliar suas estratégias de marketing digital.</p>
+                    <p>Com o CRMNet, as integrações estarão disponíveis para facilitar pagamentos, cadastro de oportunidades e auxiliar suas estratégias de marketing digital.</p>
                     </div>
                 </div>
                 <div className="row align-items-center flex-row-reverse mb-mob center-mob">

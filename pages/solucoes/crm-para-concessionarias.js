@@ -43,7 +43,7 @@ function crmParaConcessionarias() {
                     </div>
                     <div className="col-lg-6 col-sm-6">
                     <h2 className="pt-mob">Suas conversas de WhatsApp organizadas e segmentadas</h2>
-                    <p>Através do Meets, o primeiro CRM com uma central de vendas e atendimento disponível em um número para vários atendentes, suas conversas no WhatsApp serão organizadas e segmentadas.</p>
+                    <p>Através do CRMNet, o primeiro CRM com uma central de vendas e atendimento disponível em um número para vários atendentes, suas conversas no WhatsApp serão organizadas e segmentadas.</p>
                     </div>
                 </div>
                 <div className="row align-items-center flex-row-reverse mb-mob center-mob">
@@ -52,7 +52,7 @@ function crmParaConcessionarias() {
                     </div>
                     <div className="col-lg-6 col-sm-6">
                     <h2 className="pt-mob">Importações</h2>
-                    <p>Com o Meets, o processo de importação de contatos estará facilitado no seu CRM. Dados e históricos de clientes também podem ser importados e armazenados no software, encontrando-se em segurança nos nossos banco de dados na nuvem.</p>
+                    <p>Com o CRMNet, o processo de importação de contatos estará facilitado no seu CRM. Dados e históricos de clientes também podem ser importados e armazenados no software, encontrando-se em segurança nos nossos banco de dados na nuvem.</p>
                     </div>
                 </div>
                 <div className="row align-items-center mb-mob center-mob">

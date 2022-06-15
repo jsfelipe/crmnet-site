@@ -53,7 +53,7 @@ function crmParaInfoprodutos() {
                     </div>
                     <div className="col-lg-7 col-sm-7">
                     <h2 className="pt-mob">Comunicação</h2>
-                    <p>Aumentar a comunicação com os potenciais clientes, utilizando os canais necessários e essenciais, como o WhatsApp, é possibilitado com o Meets. Com a nossa central de atendimento e vendas, sua empresa conseguirá alavancar métricas do Customer Experience (CX) e Customer Success (CS), importantes para melhoria comunicacional.</p>
+                    <p>Aumentar a comunicação com os potenciais clientes, utilizando os canais necessários e essenciais, como o WhatsApp, é possibilitado com o CRMNet. Com a nossa central de atendimento e vendas, sua empresa conseguirá alavancar métricas do Customer Experience (CX) e Customer Success (CS), importantes para melhoria comunicacional.</p>
                     </div>
                 </div>
                 <div className="row align-items-center flex-row-reverse mb-mob center-mob">

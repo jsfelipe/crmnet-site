@@ -43,7 +43,7 @@ function Atendimento() {
                 </div>
                 <div className="row col-lg-7 col-sm-7">
                   <h2>Atendimentos concentrados em um só lugar</h2>
-                  <p>Com o CRM Meets todos os atendimentos realizados por você ou por sua equipe de vendas ficam centralizados em um único só lugar. Desse modo, o histórico de conversas, com o dia, hora e o tipo de atendimento, fica registrado e acessível para você e o seu time fica sempre por dentro do que foi conversado anteriormente.</p>
+                  <p>Com o CRM CRMNet todos os atendimentos realizados por você ou por sua equipe de vendas ficam centralizados em um único só lugar. Desse modo, o histórico de conversas, com o dia, hora e o tipo de atendimento, fica registrado e acessível para você e o seu time fica sempre por dentro do que foi conversado anteriormente.</p>
                   <p>Centralizamos seus atendimentos para que você tenha um maior controle sobre suas oportunidades.</p>
                 </div>
               </div>

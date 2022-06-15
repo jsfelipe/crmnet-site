@@ -62,7 +62,7 @@ function crmParaFranquias() {
                     </div>
                     <div className="col-lg-6 col-sm-6">
                     <h2>Leads</h2>
-                    <p>Estude suas leads, qualifique-as e entenda sua jornada de integração. No Meets, a facilidade para lidar com as leads e entender suas necessidades/problemas é descomplicado desde o topo do funil.</p>
+                    <p>Estude suas leads, qualifique-as e entenda sua jornada de integração. No CRMNet, a facilidade para lidar com as leads e entender suas necessidades/problemas é descomplicado desde o topo do funil.</p>
                     </div>
                 </div>
             </div>

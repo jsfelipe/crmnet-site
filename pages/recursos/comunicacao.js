@@ -39,7 +39,7 @@ function Comunicacao() {
                         <div className="col-md-7">
                         <h4 className="center-mob">Envie SMS e faça ligações diretamente do <br/>CRMNet a partir da integração com parceiros</h4>
                         <p>Com a CRMNet você pode enviar SMS e realizar ligações diretamente do sistema.
-                        Para isso, é necessário integrar o Meets com parceiros de VOIP.</p>
+                        Para isso, é necessário integrar o CRMNet com parceiros de VOIP.</p>
                         <p>Através da API de telefonia, permite que empresas enviem SMS, torpedos de voz e realizem ligações diretamente dos seus sistemas.
                         Todo esse processo é automatizado, otimiza o tempo da organização e possui baixo custo.</p>
                         </div>
@@ -60,7 +60,7 @@ function Comunicacao() {
                           <Image src="/images/banner/integ-whatsapp.png" alt="" className="img-mob" width={460} height={460} />
                         </div>
                         <div className="col-md-8">
-                        <h4 className="center-mob">Integração Meets e WhatsApp</h4>
+                        <h4 className="center-mob">Integração CRMNet e WhatsApp</h4>
                         <p>Com a CRMNet você pode transformar o WhatsApp em uma verdadeira máquina de vendas para a sua empresa. Concentre todos os atendimentos do aplicativo em um só lugar, totalmente integrado. </p>
                         <p className="mb-0">Veja os seus resultados aumentarem com um único número compartilhado para vários atendentes. Desse modo, tudo o que é tratado no seu negócio é registrado de modo centralizado para que você não perca nenhuma oportunidade de negócio. 
                         Com o nosso CRM você envia suas mensagens de forma organizada contando com um poderoso suporte.</p>
@@ -76,7 +76,7 @@ function Comunicacao() {
                               <Image src="/images/banner/banner-leadchat.png" alt="" width={360} height={360} />
                             </div>
                             <div className="col-md-8">
-                            <p>Capte mais leads com este conjunto de ferramentas poderoso e fácil de usar. Além do Chatbot e LeadChat, você pode engajar seus leads inbound com os Formulários Web. LeadChat (um novo acelarador de leads) pode ser adquirido com qualquer plano do Meets. </p>
+                            <p>Capte mais leads com este conjunto de ferramentas poderoso e fácil de usar. Além do Chatbot e LeadChat, você pode engajar seus leads inbound com os Formulários Web. LeadChat (um novo acelarador de leads) pode ser adquirido com qualquer plano do CRMNet. </p>
                             </div>
                           </div>
                           </Tab> */}
@@ -98,7 +98,7 @@ function Comunicacao() {
                               <Image src="/images/banner/banner-messenger.png" alt="" className="img-mob" width={360} height={360} />
                             </div>
                             <div className="col-md-8">
-                            <p>Integre a CRMNet ao Facebook Messenger e sincronize as mensagens que chegam no Facebook Messenger com a Central de Mensagens do Meets e atualize seu funil dentro do Meets.</p>
+                            <p>Integre a CRMNet ao Facebook Messenger e sincronize as mensagens que chegam no Facebook Messenger com a Central de Mensagens do CRMNet e atualize seu funil dentro do CRMNet.</p>
                             <p>Aumente o volume de recebimento de leads com o Messenger com respostas rápidas e personalizadas ou use nosso chatbot personalizado.</p>
                             </div>
                           </div>
@@ -109,8 +109,8 @@ function Comunicacao() {
                               <Image src="/images/banner/banner-jivo.png" alt="" width={360} height={360} />
                             </div>
                             <div className="col-md-8 col-sm-12 p-mob">
-                              <p>Integrando a CRMNet ao JivoChat ou a outros onde você recebe os leads gerados nesta plataforma no Meets, os quais são armazenados como oportunidades. Tenha todo o volume de leads e histórico de conversas no painel do nosso CRM.</p>
-                              <p>Além dessas canais de comunicação, o Meets conta também com o suporte de várias outras integrações que facilitam a comunicação no seu negócio, como chats diversos, a exemplo do Tawk.to, e de alternativas de voz, como o Vtcall, Zenvia e Phonetrack.</p>
+                              <p>Integrando a CRMNet ao JivoChat ou a outros onde você recebe os leads gerados nesta plataforma no CRMNet, os quais são armazenados como oportunidades. Tenha todo o volume de leads e histórico de conversas no painel do nosso CRM.</p>
+                              <p>Além dessas canais de comunicação, o CRMNet conta também com o suporte de várias outras integrações que facilitam a comunicação no seu negócio, como chats diversos, a exemplo do Tawk.to, e de alternativas de voz, como o Vtcall, Zenvia e Phonetrack.</p>
                               <p>Tenha todos os seus contatos e conversas registrados no nosso CRM e otimize a comunicação da sua empresa.</p>
                             </div>
                           </div>

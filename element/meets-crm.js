@@ -22,7 +22,7 @@ function OsRecursos() {
 									</div>
 									<div class="icon-content text-center plr-mob" data-aos="fade-up" data-aos-duration="500">
 										<h4 class="dlab-tilte text-capitalize">Simplicidade</h4>
-										<p>Muitos usuários chamam o Meets do Iphone dos CRMs por sua simplicidade e facilidade de usar.</p>
+										<p>Muitos usuários chamam o CRMNet do Iphone dos CRMs por sua simplicidade e facilidade de usar.</p>
 									</div>
 								</div>
 							</div>

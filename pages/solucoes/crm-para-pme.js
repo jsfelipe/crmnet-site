@@ -44,7 +44,7 @@ function crmParaPme() {
                     </div>
                     <div className="col-lg-7 col-sm-7">
                     <h2 className="pt-mob">Gatilhos inteligentes</h2>
-                    <p>Com a integração de gatilhos inteligentes, disponível no Meets, será possível o envio das leads que entram em critério definido pelo usuário e disparadas em fluxo.</p>
+                    <p>Com a integração de gatilhos inteligentes, disponível no CRMNet, será possível o envio das leads que entram em critério definido pelo usuário e disparadas em fluxo.</p>
                     </div>
                 </div>
                 <div className="row align-items-center mb-mob center-mob">
@@ -62,7 +62,7 @@ function crmParaPme() {
                     </div>
                     <div className="col-lg-7 col-sm-7">
                     <h2 className="pt-mob">Customer Experience (CX)</h2>
-                    <p>A Experiência do Cliente é tratada como métrica essencial para acompanhar a Jornada do Cliente, oferecendo sempre a melhor forma de atender e solucionar problemas. Com o Meets, sua CX irá alavancar e engajar clientes, possibilitando a melhora no atendimento e o recebimento do feedback.</p>
+                    <p>A Experiência do Cliente é tratada como métrica essencial para acompanhar a Jornada do Cliente, oferecendo sempre a melhor forma de atender e solucionar problemas. Com o CRMNet, sua CX irá alavancar e engajar clientes, possibilitando a melhora no atendimento e o recebimento do feedback.</p>
                     </div>
                 </div>
             </div>

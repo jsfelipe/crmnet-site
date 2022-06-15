@@ -44,7 +44,7 @@ function crmParaImobiliaria() {
                     </div>
                     <div className="col-lg-7 col-sm-7">
                     <h2 className="pt-mob">Omnichannel</h2>
-                    <p>A estratégia Omnichannel disponível para integração no Meets, para uso simultâneo de diversos canais de comunicação, será vantajosa para sua imobiliária aprimorando a experiência do cliente e o processo de fidelização.</p>
+                    <p>A estratégia Omnichannel disponível para integração no CRMNet, para uso simultâneo de diversos canais de comunicação, será vantajosa para sua imobiliária aprimorando a experiência do cliente e o processo de fidelização.</p>
                     </div>
                 </div>
                 <div className="row align-items-center mb-mob center-mob">
