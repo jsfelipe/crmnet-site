@@ -4,7 +4,7 @@ function Clients2() {
     return (
         <>
             
-            <div className="content-inner-2">
+            {/* <div className="content-inner-2">
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-3 n-clientes center-mob">
@@ -15,7 +15,7 @@ function Clients2() {
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> */}
         </>
     );
 }
