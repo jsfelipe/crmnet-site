@@ -7,7 +7,7 @@ function Footer() {
             <div className="container">
 				<div className="row">
 					
-					<div className="col-xl-2 col-lg-3 col-md-4  col-sm-6 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.4s">
+					{/* <div className="col-xl-2 col-lg-3 col-md-4  col-sm-6 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.4s">
 						<div className="widget style-1 center-mob">
 							<h5 className="footer-title">Empresa</h5>
 							<ul className="center-mob">
@@ -18,7 +18,7 @@ function Footer() {
 								<li><a href="/trabalhe-conosco">Trabalhe Conosco</a></li>
 							</ul>
 						</div>
-                    </div>
+                    </div> */}
 					<div className="col-xl-2 col-lg-3 col-md-4  col-sm-6 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.6s">
 						<div className="widget style-1 center-mob">
 							<h5 className="footer-title">Soluções</h5>
@@ -35,7 +35,7 @@ function Footer() {
 						<div className="widget style-1 center-mob">
 						   <h5 className="footer-title">CRM</h5>
 							<ul className="center-mob">
-								<li><a href="https://apidoc.meets.com.br/" target="_blank">API CRMNet</a></li>
+								{/* <li><a href="https://apidoc.meets.com.br/" target="_blank">API CRMNet</a></li> */}
 								<li><a href="/duvidas-frequentes">Dúvidas Frequentes</a></li>
 								<li><a href="/termos-e-condicoes">Termos e condições</a></li>
 								<li><a href="/termos-de-uso-whatsapp">Termos de uso whatsapp</a></li>
@@ -48,16 +48,17 @@ function Footer() {
 						<div className="widget style-1 center-mob">
 							<h5 className="footer-title">Suporte</h5>
 							<ul className="center-mob">
-								<li><a href="https://ajuda.meets.com.br/" target="_blank">Ajuda</a></li>
-								<li><a href="mailto:contato@crm.net.br">contato@crm.net.br</a></li>
-								<li>+55 (11) 3164-9266</li>
-								<li>+55 (81) 99297-1917</li>
+								{/* <li><a href="https://ajuda.meets.com.br/" target="_blank">Ajuda</a></li> */}
+								{/* <li><a href="mailto:contato@crm.net.br">contato@crm.net.br</a></li> */}
+								<li>+55 (81) 3787-3999</li>
+								<li>Av. Rio Branco, 139 - Recife, PE, 50030-310</li>
+								
 							</ul>
 						</div>
 					</div>
 					<div className="col-xl-3 col-lg-12 col-md-4 col-sm-6 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
                         <div className="widget_about">
-							<div className="dlab-social-icon center-mob">
+							{/* <div className="dlab-social-icon center-mob">
 								<h5 className="footer-title">Social</h5>
 								<ul className="center-mob">
 									<li><a className="fa fa-facebook" href="https://www.facebook.com/meetscrm/?ref=br_rs" target="_blank"></a></li>
@@ -67,7 +68,7 @@ function Footer() {
 									<li><a className="fa fa-youtube" href="https://www.youtube.com/c/CRMNetBr" target="_blank"></a></li>
 									<li><a className="fa fa-pinterest" href="https://br.pinterest.com/meetscrm1/" target="_blank"></a></li>
 								</ul>
-							</div>
+							</div> */}
 							<div className="footer-logo center-mob">
 								<img src="images/logo/aws.png" alt=""/>
 								<img src="images/logo/google-safe-browsing.png" alt=""/>

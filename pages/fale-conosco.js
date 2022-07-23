@@ -61,7 +61,7 @@ function FaleConosco() {
                   </div>
                 </div>
 
-                <div className="container pb-5">
+                {/* <div className="container pb-5">
                   <div className="text-center pb-3">
                       <h3>Sociais</h3>
                   </div>
@@ -76,7 +76,7 @@ function FaleConosco() {
                         <li><a className="fa fa-pinterest" href="https://br.pinterest.com/meetscrm1/"></a></li>
                       </ul>
                   </div>
-                </div>
+                </div> */}
 
               <div className="content-inner" id="cadastro">  
 

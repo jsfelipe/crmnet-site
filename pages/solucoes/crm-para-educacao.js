@@ -45,7 +45,7 @@ function crmParaEducacao() {
                     <img src="/images/losango.svg" alt="" />
                     </div>
                     <div className="col-lg-6 col-sm-6 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.1s">
-                    <script src="https://acesso.meets.com.br/form/index/id/e1c03d2c445ffd0b7d000b732c8108a2e9145245"></script>
+                    {/* <script src="https://acesso.meets.com.br/form/index/id/e1c03d2c445ffd0b7d000b732c8108a2e9145245"></script> */}
                     </div>
                 </div>
                 <div className="row align-items-center flex-row-reverse">

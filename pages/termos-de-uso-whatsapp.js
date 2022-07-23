@@ -139,7 +139,7 @@ Ao proceder a assinatura da Ferramenta Licenciante você, doravante denominado �
                       2.10.8 A violação de qualquer uma das regras aqui postas resultará no bloqueio do acesso à Ferramenta, sem prejuízo de eventuais cobranças perdas e danos. 
                       2.10.9 O Metszap não se responsabiliza pelo conteúdo publicado através do sistema, podendo remover o conteúdo da Internet caso verificada a violação deste termo ou de direito de terceiros.
                       <h6>2.11 SUPORTE</h6>
-                      O Suporte Técnico da ferramenta se dará através de nosso canal exclusivo via WhatsApp/Chat/Email/Ticket em horário comercial, das 8h às 18h de segunda-feira a sexta-feira, para acessar nossa base de conhecimento visite ajuda.meets.com.br
+                      O Suporte Técnico da ferramenta se dará através de nosso canal exclusivo via WhatsApp/Chat/Email/Ticket em horário comercial, das 8h às 18h de segunda-feira a sexta-feira,
                       <h6>2.12 ACESSO COMPARTILHADO</h6>
                       2.12.1 O compartilhamento dos dados de acesso não é permitido sob hipótese alguma, o assinante poderá ter seu acesso bloqueado se o sistema identificar acesso por diferentes IPs. Para acessos bloqueados, o assinante terá que esperar até 72 horas para que seu acesso seja liberado novamente, após análise de nossa equipe TI.
                       2.12.2 O compartilhamento de dados de acesso, assim como cópia e/ou distribuição de conteúdo sem autorização escrita do autor é considerado pirataria. Pirataria é crime e, caso identificado e comprovado, o infrator será acionado judicialmente, respondendo assim aos termos previstos em Lei.
