@@ -83,7 +83,7 @@ function Footer() {
             <div className="container">
                 <div className="row align-items-center">
                     <div className="col-md-12 text-center"> 
-						<span className="copyright-text">Copyright © 2022 <a href="https://meets.com.br/" target="_blank">CRMNet</a>. Todos os direitos reservados.</span> 
+						<span className="copyright-text">Copyright © 2022 CRMNet. Todos os direitos reservados.</span> 
 					</div>
                 </div>
             </div>
@@ -93,8 +93,7 @@ function Footer() {
 	    
 		
 		
-		<noscript dangerouslySetInnerHTML={{ __html: `<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5GJQK9J"
-height="0" width="0" style="display:none;visibility:hidden"></iframe>`}}></noscript>
+		
 		
 	
     </footer>

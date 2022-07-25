@@ -64,7 +64,7 @@ function Header() {
                                 <span></span>
                             </button>
                             {/* <!-- Extra Nav --> */}
-                            <div className="extra-nav">
+                            {/* <div className="extra-nav">
                                 <div className="extra-cell">
                                     <Link href="/teste-gratis/" target="_blank">
                                         <a className="btn btn-primary rounded-xl" target="_blank" rel="noreferrer">Teste Grátis</a>
@@ -73,7 +73,7 @@ function Header() {
                                         <a className="btn btn-login rounded-xl" target="_blank" rel="noreferrer">Login</a>
                                     </Link>
                                 </div>
-                            </div>
+                            </div> */}
                             <div
                                 className={`header-nav navbar-collapse collapse justify-content-end ${
                                     show ? "show" : ""
