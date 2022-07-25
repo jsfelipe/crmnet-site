@@ -76,17 +76,17 @@ function Integracoes() {
                       </div>
                     </div>
                   </div>  
-                  <div className="" data-aos="fade-up" data-aos-duration="700">
+                  {/* <div className="" data-aos="fade-up" data-aos-duration="700">
                     <div className="shadow rounded m-3 p-4 text-center">
                       <div className=""> 
                           <img className="icon-int" src="images/icon/icon-telegram.png" alt="" />
                       </div>
                       <div className="">
                         <h5 className="dlab-title m-b15">Telegram</h5>
-                        {/* <Link href="" ><a className=" btn btn-info shadow rounded-xl" >Saiba mais</a></Link> */}
+                        <Link href="" ><a className=" btn btn-info shadow rounded-xl" >Saiba mais</a></Link>
                       </div>
                     </div>
-                  </div>  
+                  </div>   */}
                   <div className="" data-aos="fade-up" data-aos-duration="900">
                     <div className="shadow rounded m-3 p-4 text-center">
                       <div className=""> 
@@ -131,7 +131,18 @@ function Integracoes() {
                 </div>
 
                 <div className="row align-items-center justify-content-center pb-5">
-                      
+
+                  <div className="" data-aos="fade-up" data-aos-duration="300">
+                    <div className="shadow rounded m-3 p-4 text-center">
+                      <div className=""> 
+                          <img className="icon-int" src="images/icon/b2pbx.png" alt="" />
+                      </div>
+                      <div className="">
+                        <h5 className="dlab-title m-b15">B2 Tecnologia</h5>
+                        {/* <Link href=""><a className=" btn btn-info shadow rounded-xl" >Saiba mais</a></Link> */}
+                      </div>
+                    </div>
+                  </div>      
                   <div className="" data-aos="fade-up" data-aos-duration="300">
                     <div className="shadow rounded m-3 p-4 text-center">
                       <div className=""> 

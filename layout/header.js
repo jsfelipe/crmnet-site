@@ -34,9 +34,9 @@ function Header() {
     return (
         <>
 
-            <div className="breve">
+            {/* <div className="breve">
             <p><Unicons.UilInstagram /> Aguarde, em breve o Instagram estará integrado ao CRMNet.</p>
-            </div>
+            </div> */}
 
             <header className="site-header mo-left header-transparent">
 
