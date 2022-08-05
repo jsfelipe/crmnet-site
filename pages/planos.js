@@ -53,7 +53,7 @@ function Planos() {
 											<li><Unicons.UilCheck /> Vários números Whatsapp</li>
                       <li><Unicons.UilCheck /> Chatbots</li>
                       <li><Unicons.UilCheck /> WhatsApp Business API</li>
-                      <li className="center-mob mb-mob"><Link href="https://api.whatsapp.com/send?phone=5581999446929"><a className="btn btn-primary border-0 mt-3" target="_blank" data-aos="fade-up" data-aos-duration="400">consultar plano</a></Link></li>
+                      <li className="center-mob mb-mob"><Link href="https://api.whatsapp.com/send?phone=558137873999"><a className="btn btn-primary border-0 mt-3" target="_blank" data-aos="fade-up" data-aos-duration="400">consultar plano</a></Link></li>
 										</ul>
                   </div>
                 </div>

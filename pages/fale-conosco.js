@@ -30,7 +30,7 @@ function FaleConosco() {
                     <div className="col-lg-7 col-sm-7 center-mob">
                       <h3 className="title m-b20">Olá, tem alguma dúvida, sugestão?</h3>
                       <p className="mb-0">Estamos aqui para te ajudar, fale conosco pelo formulário abaixo ou fale com um de nossos consultores no botão abaixo.</p>
-                      <a href="https://api.whatsapp.com/send?phone=5581999446929" target="_blank" className="btn btn-info border-0 mt-3">Falar com um consultor</a>
+                      <a href="https://api.whatsapp.com/send?phone=558137873999" target="_blank" className="btn btn-info border-0 mt-3">Falar com um consultor</a>
                     </div>
                     <div className="col-lg-5 col-sm-5 box-ajuda p-relative">
                       <img className="p-absolute foguete move-4" src="images/banner/interrogacao.png" alt="" />
