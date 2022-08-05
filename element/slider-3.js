@@ -29,7 +29,7 @@ function Slider3 () {
 								</ul>
 								<div class="d-flex center-mob">
 								<a href="teste-gratis" data-aos="fade-up" data-aos-duration="300" className="btn btn-primary mr-3 btn-round">Começar agora</a>
-								<a href="https://api.whatsapp.com/send?phone=5581992971917" target="_blank" data-aos="fade-up" data-aos-duration="300" className="btn btn-light btn-round">Solicitar apresentação</a>
+								<a href="https://api.whatsapp.com/send?phone=5581999446929" target="_blank" data-aos="fade-up" data-aos-duration="300" className="btn btn-light btn-round">Solicitar apresentação</a>
 								</div>
 							</div>
 						</div>

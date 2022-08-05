@@ -32,8 +32,8 @@ function PoliticaDePrivacidade() {
                         <p>Leia com atenção os termos que regem nossa relação. Antes de usar o CRMNet é importante que você leia e concorde com nossa política. Ao efetuar seu cadastro para utilização dos serviços, você concorda com nossa política, sem modificações.</p>
 
                         <h5 className="strong">Proprietário e Controlador de Dados</h5>
-                        <p>Unity Brasil Tecnologia da Informação Ltda – CNPJ 06.013.344/0001-11</p>
-                        <p>Rua Professor Aloísio Pessoa de Araújo, 80, sala 304, Recife/PE</p>
+                        <p>B2 SOLUCOES EM TI E TELECOM LTDA, pessoa jurídica de direito privado, inscrita no CNPJ sob n. 46.747.621/0001-34, com sede na AV RIO BRANCO Nº 139, BAIRRO RECIFE, CIDADE RECIFE, PE, CEP 50.030-310</p>
+                        
                         
 
                         <h5 className="strong">Tipos de Dados coletados</h5>
