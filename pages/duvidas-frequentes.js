@@ -43,7 +43,7 @@ function DuvidasFrequentes() {
                   </li>
                   <li>
                   <h5>3- Quais são os métodos de pagamento?</h5>
-                  <p>Você pode pagar por cartão de crédito (VISA, Mastercard, Amex ou Boleto Bancário). O processo de pagamento é sempre iniciado dentro do próprio CRMNet.</p>
+                  <p>Você pode pagar por cartão de crédito (VISA, Mastercard, Amex ou Boleto Bancário). O processo de pagamento é sempre iniciado dentro do próprio CRM.Net</p>
                   </li>
                   <li>
                   <h5>4- Depois de contratar um plano, posso mudar para um plano superior ou inferior?</h5>

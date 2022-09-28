@@ -49,7 +49,7 @@ function Parceiros() {
                       <div className="col-lg-7 col-sm-7">
                         <h3 className="center-mob">Afiliados</h3>
                         <p>O programa de afiliados da CRMNet inclui benefícios incríveis para começar a alavancar ainda mais suas vendas.</p>
-                        <p>Com oportunidades de ganho de comissões, o programa de Afiliados visa recompensar aqueles que indicarem novos clientes para o CRMNet, tornando-se proporcional o valor da comissão ao consumo de cada novo cliente na contratação e renovação de produtos da família CRMNet. Afiliar-se ao CRMNet é ter oportunidade de trabalhar com mais liberdade e aumentando seus lucros.</p>
+                        <p>Com oportunidades de ganho de comissões, o programa de Afiliados visa recompensar aqueles que indicarem novos clientes para o CRMNet, tornando-se proporcional o valor da comissão ao consumo de cada novo cliente na contratação e renovação de produtos da família CRM.Net Afiliar-se ao CRMNet é ter oportunidade de trabalhar com mais liberdade e aumentando seus lucros.</p>
                       </div> 
                     </div>  
                     <div className="row align-items-center mb-5 flex-row-reverse"> 
@@ -95,7 +95,7 @@ function Parceiros() {
                     </div>  
                     <div className="col-lg-6 col-sm-6">
                     <h3 className="center-mob">Quem pode participar do programa de afiliados CRMNet?</h3>
-                    <p>O programa de Afiliados é restrito para quem recebe o convite da equipe do CRMNet ou é aprovado por nossa equipe após pedido de participação. Diferentemente do programa de Indicação, disponível para todos os usuários do CRMNet.</p>
+                    <p>O programa de Afiliados é restrito para quem recebe o convite da equipe do CRMNet ou é aprovado por nossa equipe após pedido de participação. Diferentemente do programa de Indicação, disponível para todos os usuários do CRM.Net</p>
                     </div>  
                 </div>
 

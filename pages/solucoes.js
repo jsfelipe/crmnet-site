@@ -193,7 +193,7 @@ function Solucoes() {
                     </div>
                     <div className="col-lg-7 col-sm-7 center-mob">
                       <h2>CRM para Infoprodutos</h2>
-                      <p>A maneira mais inteligente para vender infoprodutos todos os dias pela internet, é utilizando a CRMNet. Com um CRM especializado, o “ponto de ativação com seu cliente” é criado e problemas de “Como fazer isso do jeito certo?” serão sanados. O CRMNet fará isso por você e auxiliará a aumentar as conversões de seus infoprodutos.</p>
+                      <p>A maneira mais inteligente para vender infoprodutos todos os dias pela internet, é utilizando a CRM.Net Com um CRM especializado, o “ponto de ativação com seu cliente” é criado e problemas de “Como fazer isso do jeito certo?” serão sanados. O CRMNet fará isso por você e auxiliará a aumentar as conversões de seus infoprodutos.</p>
                       <p>Com integrações disponibilizadas em nosso software, aliadas a Hotmart, Eduzz e Pagseguro, será possível resgatar boletos, observar pagamentos e compras realizadas, além, é claro, de aumentar a integração com o cliente e acompanhar seu histórico dentro do funil de vendas.</p>
                       <a href="/solucoes/crm-para-infoprodutos" className="btn btn-info shadow btn-round center-mob" data-wow-delay="2s">Saiba mais</a>
                     </div>

@@ -76,7 +76,7 @@ function Comunicacao() {
                               <Image src="/images/banner/banner-leadchat.png" alt="" width={360} height={360} />
                             </div>
                             <div className="col-md-8">
-                            <p>Capte mais leads com este conjunto de ferramentas poderoso e fácil de usar. Além do Chatbot e LeadChat, você pode engajar seus leads inbound com os Formulários Web. LeadChat (um novo acelarador de leads) pode ser adquirido com qualquer plano do CRMNet. </p>
+                            <p>Capte mais leads com este conjunto de ferramentas poderoso e fácil de usar. Além do Chatbot e LeadChat, você pode engajar seus leads inbound com os Formulários Web. LeadChat (um novo acelarador de leads) pode ser adquirido com qualquer plano do CRM.Net </p>
                             </div>
                           </div>
                           </Tab> */}
@@ -98,7 +98,7 @@ function Comunicacao() {
                               <Image src="/images/banner/banner-messenger.png" alt="" className="img-mob" width={360} height={360} />
                             </div>
                             <div className="col-md-8">
-                            <p>Integre a CRMNet ao Facebook Messenger e sincronize as mensagens que chegam no Facebook Messenger com a Central de Mensagens do CRMNet e atualize seu funil dentro do CRMNet.</p>
+                            <p>Integre a CRMNet ao Facebook Messenger e sincronize as mensagens que chegam no Facebook Messenger com a Central de Mensagens do CRMNet e atualize seu funil dentro do CRM.Net</p>
                             <p>Aumente o volume de recebimento de leads com o Messenger com respostas rápidas e personalizadas ou use nosso chatbot personalizado.</p>
                             </div>
                           </div>

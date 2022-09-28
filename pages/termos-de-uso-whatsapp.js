@@ -25,7 +25,7 @@ function TermosDeUsoWhatsapp() {
 
               <div className="container mb-mob">
                 <div className="row m-1 leia">
-                  <p>Leia com atenção os termos de uso. Antes de usar o CRMNet ou qualquer ferramenta de de nosso portofólio. Ao efetuar seu cadastro para utilização dos serviços, ou aceitar estes termos, você concorda com os termos, sem modificações. Esse documento é parte integrante do contrato geral de uso do CRMNet.</p>
+                  <p>Leia com atenção os termos de uso. Antes de usar o CRMNet ou qualquer ferramenta de de nosso portofólio. Ao efetuar seu cadastro para utilização dos serviços, ou aceitar estes termos, você concorda com os termos, sem modificações. Esse documento é parte integrante do contrato geral de uso do CRM.Net</p>
                 </div>
               </div>
 
