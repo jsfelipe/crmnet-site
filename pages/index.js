@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import CRMNetCrm from "../element/meets-crm";
+import CRM.NetCrm from "../element/meets-crm";
 import Clients2 from "../element/clients-2";
 import SliderSolucoes from "../element/slider-solucoes";
 import BoxRecursos from "../element/box-recursos";
@@ -29,7 +29,7 @@ function Index2() {
         {/* <LeadChat /> */}
         <SliderSolucoes />
         <BoxRecursos />
-        <CRMNetCrm />
+        <CRM.NetCrm />
         <BoxAutomatize />
         <div id="action-home">
         <Cta />

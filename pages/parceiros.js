@@ -10,7 +10,7 @@ function Parceiros() {
   return (
     <>
     <Head>
-    <title>Parceiros | CRMNet</title>
+    <title>Parceiros | CRM.Net</title>
     </Head>
       <Header />
       <div className="page-content">
@@ -48,8 +48,8 @@ function Parceiros() {
                       </div>
                       <div className="col-lg-7 col-sm-7">
                         <h3 className="center-mob">Afiliados</h3>
-                        <p>O programa de afiliados da CRMNet inclui benefícios incríveis para começar a alavancar ainda mais suas vendas.</p>
-                        <p>Com oportunidades de ganho de comissões, o programa de Afiliados visa recompensar aqueles que indicarem novos clientes para o CRMNet, tornando-se proporcional o valor da comissão ao consumo de cada novo cliente na contratação e renovação de produtos da família CRM.Net Afiliar-se ao CRMNet é ter oportunidade de trabalhar com mais liberdade e aumentando seus lucros.</p>
+                        <p>O programa de afiliados da CRM.Net inclui benefícios incríveis para começar a alavancar ainda mais suas vendas.</p>
+                        <p>Com oportunidades de ganho de comissões, o programa de Afiliados visa recompensar aqueles que indicarem novos clientes para o CRM.Net, tornando-se proporcional o valor da comissão ao consumo de cada novo cliente na contratação e renovação de produtos da família CRM.Net Afiliar-se ao CRM.Net é ter oportunidade de trabalhar com mais liberdade e aumentando seus lucros.</p>
                       </div> 
                     </div>  
                     <div className="row align-items-center mb-5 flex-row-reverse"> 
@@ -60,8 +60,8 @@ function Parceiros() {
                       <h3 className="center-mob">Benefícios</h3>
                       <p>Ao ser aceito para participar do Programa, o Afiliado será comissionado em
                         dinheiro (reais) de forma equivalente à 20% do consumo do novo cliente que
-                        contratou o CRMNet pelo seu link de Afiliado de forma recorrente pro 12 meses
-                        ou enquanto o cliente indicado mantiver ativa sua conta na CRMNet nesse
+                        contratou o CRM.Net pelo seu link de Afiliado de forma recorrente pro 12 meses
+                        ou enquanto o cliente indicado mantiver ativa sua conta na CRM.Net nesse
                         período inicial de um ano.</p>
                         <p>
                         Na tabela abaixo, demonstramos as faixas de recorrência que o Afiliado
@@ -94,8 +94,8 @@ function Parceiros() {
                     <p>Não perca comissões imperdíveis e acompanhamento de suas vendas.</p>
                     </div>  
                     <div className="col-lg-6 col-sm-6">
-                    <h3 className="center-mob">Quem pode participar do programa de afiliados CRMNet?</h3>
-                    <p>O programa de Afiliados é restrito para quem recebe o convite da equipe do CRMNet ou é aprovado por nossa equipe após pedido de participação. Diferentemente do programa de Indicação, disponível para todos os usuários do CRM.Net</p>
+                    <h3 className="center-mob">Quem pode participar do programa de afiliados CRM.Net?</h3>
+                    <p>O programa de Afiliados é restrito para quem recebe o convite da equipe do CRM.Net ou é aprovado por nossa equipe após pedido de participação. Diferentemente do programa de Indicação, disponível para todos os usuários do CRM.Net</p>
                     </div>  
                 </div>
 

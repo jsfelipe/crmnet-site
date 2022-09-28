@@ -385,7 +385,7 @@ function Tabela() {
                             <td class="classe-v"><b><Unicons.UilCheckCircle /></b></td>
                         </tr>
                         <tr>
-                            <td>Academia CRMNet</td>
+                            <td>Academia CRM.Net</td>
                             <td class="classe-x"><b><Unicons.UilTimesCircle /></b></td>
                             <td class="classe-v"><b><Unicons.UilCheckCircle /></b></td>
                             <td class="classe-v"><b><Unicons.UilCheckCircle /></b></td>

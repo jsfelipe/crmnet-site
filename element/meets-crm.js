@@ -11,7 +11,7 @@ function OsRecursos() {
 				<div className="row align-items-center">
 				<div className="">
 						<div className="section-head style-3 text-center">
-							<h2 className="title">Por que escolher a CRMNet?</h2>
+							<h2 className="title">Por que escolher a CRM.Net?</h2>
 							<h3 className="sub-title m-b20">temos soluções de negócios  que se encaixam muito bem nas suas necessidades</h3>
 						</div>
 						<div className="row">
@@ -22,7 +22,7 @@ function OsRecursos() {
 									</div>
 									<div class="icon-content text-center plr-mob" data-aos="fade-up" data-aos-duration="500">
 										<h4 class="dlab-tilte text-capitalize">Simplicidade</h4>
-										<p>Muitos usuários chamam o CRMNet do Iphone dos CRMs por sua simplicidade e facilidade de usar.</p>
+										<p>Muitos usuários chamam o CRM.Net do Iphone dos CRMs por sua simplicidade e facilidade de usar.</p>
 									</div>
 								</div>
 							</div>

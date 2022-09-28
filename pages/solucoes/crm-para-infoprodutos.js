@@ -9,7 +9,7 @@ function crmParaInfoprodutos() {
   return (
     <>
      <Head>
-    <title>CRM para Infoprodutos | CRMNet</title>
+    <title>CRM para Infoprodutos | CRM.Net</title>
     </Head>
       <Header />
       <div className="page-content bg-cinza">
@@ -44,7 +44,7 @@ function crmParaInfoprodutos() {
                     </div>
                     <div className="col-lg-7 col-sm-7">
                     <h2 className="pt-mob">Tráfego</h2>
-                    <p>O aumento do seu tráfego, diminuindo custos e otimizando resultados em seu site, é uma estratégia que a aplicação da CRMNet trabalha na utilização do CRM no seu domínio para infoprodutos. </p>
+                    <p>O aumento do seu tráfego, diminuindo custos e otimizando resultados em seu site, é uma estratégia que a aplicação da CRM.Net trabalha na utilização do CRM no seu domínio para infoprodutos. </p>
                     </div>
                 </div>
                 <div className="row align-items-center mb-mob center-mob">

@@ -35,7 +35,7 @@ function Footer() {
 						<div className="widget style-1 center-mob">
 						   <h5 className="footer-title">CRM</h5>
 							<ul className="center-mob">
-								{/* <li><a href="https://apidoc.meets.com.br/" target="_blank">API CRMNet</a></li> */}
+								{/* <li><a href="https://apidoc.meets.com.br/" target="_blank">API CRM.Net</a></li> */}
 								<li><a href="/duvidas-frequentes">Dúvidas Frequentes</a></li>
 								<li><a href="/termos-e-condicoes">Termos e condições</a></li>
 								<li><a href="/termos-de-uso-whatsapp">Termos de uso whatsapp</a></li>
@@ -65,7 +65,7 @@ function Footer() {
 									<li><a className="fa fa-instagram" href="https://www.instagram.com/meetscrm/" target="_blank"></a></li>
 									<li><a className="fa fa-linkedin" href="https://www.linkedin.com/company/meetscrm/" target="_blank"></a></li>
 									<li><a className="fa fa-twitter" href="https://twitter.com/meets_crm" target="_blank"></a></li>
-									<li><a className="fa fa-youtube" href="https://www.youtube.com/c/CRMNetBr" target="_blank"></a></li>
+									<li><a className="fa fa-youtube" href="https://www.youtube.com/c/CRM.NetBr" target="_blank"></a></li>
 									<li><a className="fa fa-pinterest" href="https://br.pinterest.com/meetscrm1/" target="_blank"></a></li>
 								</ul>
 							</div> */}

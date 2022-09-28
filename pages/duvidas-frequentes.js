@@ -11,7 +11,7 @@ function DuvidasFrequentes() {
   return (
     <>
      <Head>
-    <title>Dúvidas frequentes | CRMNet</title>
+    <title>Dúvidas frequentes | CRM.Net</title>
     </Head>
       <Header />
 
@@ -39,7 +39,7 @@ function DuvidasFrequentes() {
                   </li>
                   <li>
                   <h5>2- Como posso contratar um plano?</h5>
-                  <p>Crie uma conta no CRMNet (você tem direito a um teste gratuito). Entre na conta, escolha o plano e pague o valor. Feito! Daí em diante, você recebe o boleto (7 dias antes do vencimento) ou o débito virá no seu cartão todo mês.</p>
+                  <p>Crie uma conta no CRM.Net (você tem direito a um teste gratuito). Entre na conta, escolha o plano e pague o valor. Feito! Daí em diante, você recebe o boleto (7 dias antes do vencimento) ou o débito virá no seu cartão todo mês.</p>
                   </li>
                   <li>
                   <h5>3- Quais são os métodos de pagamento?</h5>
@@ -47,14 +47,14 @@ function DuvidasFrequentes() {
                   </li>
                   <li>
                   <h5>4- Depois de contratar um plano, posso mudar para um plano superior ou inferior?</h5>
-                  <p>Sim, o CRMNet calculará automaticamente a diferença de preço.</p>
+                  <p>Sim, o CRM.Net calculará automaticamente a diferença de preço.</p>
                   </li>
                   <li>
                   <h5>4- Além dos valores que aparecem nos planos a serem escolhidos, o que mais teremos de custo?</h5>
                   <p>Você terá o serviço de onboarding que irá lhe ajudar a melhorar seus resultados. Consulte com nossa equipe as condições especiais.</p>
                   </li>
                   <li>
-                  <h5>4- Posso utilizar apenas  o LeadCRMNet separado do CRM?</h5>
+                  <h5>4- Posso utilizar apenas  o LeadCRM.Net separado do CRM?</h5>
                   <p>Estamos trabalhando para que isso aconteça o mais rápido possível.</p>
                   </li>
                   </ul>

@@ -9,7 +9,7 @@ function crmParaFranquias() {
   return (
     <>
      <Head>
-    <title>CRM para Franquias | CRMNet</title>
+    <title>CRM para Franquias | CRM.Net</title>
     </Head>
       <Header />
       <div className="page-content bg-cinza">
@@ -44,7 +44,7 @@ function crmParaFranquias() {
                     </div>
                     <div className="col-lg-6 col-sm-6">
                     <h2>Organização</h2>
-                    <p>Com a CRMNet, sua franquia estará mais organizada. O estoque de produtos e preços, além do registro de atividades importantes e entrada de oportunidades estará disponível na integração da CRMNet com sua franquia.</p>
+                    <p>Com a CRM.Net, sua franquia estará mais organizada. O estoque de produtos e preços, além do registro de atividades importantes e entrada de oportunidades estará disponível na integração da CRM.Net com sua franquia.</p>
                     </div>
                 </div>
                 <div className="row align-items-center">
@@ -53,7 +53,7 @@ function crmParaFranquias() {
                     </div>
                     <div className="col-lg-6 col-sm-6">
                     <h2>Gestão de marketing</h2>
-                    <p>A gestão de marketing da sua franquia estará descomplicada. Com a CRMNet, a automação de marketing e a análise do seu ROAS sobre campanhas promovidas, estará facilitada.</p>
+                    <p>A gestão de marketing da sua franquia estará descomplicada. Com a CRM.Net, a automação de marketing e a análise do seu ROAS sobre campanhas promovidas, estará facilitada.</p>
                     </div>
                 </div>
                 <div className="row align-items-center flex-row-reverse">
@@ -62,7 +62,7 @@ function crmParaFranquias() {
                     </div>
                     <div className="col-lg-6 col-sm-6">
                     <h2>Leads</h2>
-                    <p>Estude suas leads, qualifique-as e entenda sua jornada de integração. No CRMNet, a facilidade para lidar com as leads e entender suas necessidades/problemas é descomplicado desde o topo do funil.</p>
+                    <p>Estude suas leads, qualifique-as e entenda sua jornada de integração. No CRM.Net, a facilidade para lidar com as leads e entender suas necessidades/problemas é descomplicado desde o topo do funil.</p>
                     </div>
                 </div>
             </div>

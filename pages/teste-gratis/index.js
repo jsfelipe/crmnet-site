@@ -87,7 +87,7 @@ function Index() {
   return (
     <>
      <Head>
-    <title>Teste Grátis | CRMNet</title>
+    <title>Teste Grátis | CRM.Net</title>
     </Head>
 
       <div className="page-content page-teste d-flex align-items-center justify-content-center">

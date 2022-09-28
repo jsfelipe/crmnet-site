@@ -11,7 +11,7 @@ function Planos() {
   return (
     <>
     <Head>
-    <title>Planos | CRMNet</title>
+    <title>Planos | CRM.Net</title>
     </Head>
       <Header />
       <div className="page-content">
@@ -40,7 +40,7 @@ function Planos() {
                     <p className="center-mob">+ 64,90 Mensal e 59,90 anual</p>
                     <ul className="pricingtable-features">
 											<li><Unicons.UilCheck /> Vários atendentes para uma linha</li>
-											<li><Unicons.UilCheck /> Integrado aa CRMNet</li>
+											<li><Unicons.UilCheck /> Integrado aa CRM.Net</li>
 											<li><Unicons.UilCheck /> 1 número Whatsapp</li>
                       <li className="center-mob mb-mob"><a href="teste-gratis" className="btn btn-primary border-0 mt-3">Solicite um teste</a></li>
 										</ul>
@@ -49,7 +49,7 @@ function Planos() {
                     <h5 className="mb-3 center-mob">Sob consulta:</h5>
                     <ul className="pricingtable-features">
 											<li><Unicons.UilCheck /> Vários atendentes para uma linha</li>
-											<li><Unicons.UilCheck /> Integrado aa CRMNet</li>
+											<li><Unicons.UilCheck /> Integrado aa CRM.Net</li>
 											<li><Unicons.UilCheck /> Vários números Whatsapp</li>
                       <li><Unicons.UilCheck /> Chatbots</li>
                       <li><Unicons.UilCheck /> WhatsApp Business API</li>
@@ -89,8 +89,8 @@ function Planos() {
               {/* <div className="container">
                 <div className="row align-items-center justify-content-center pt-3 pt-5 pb-5 mb-5 m-mob">
                   <h3>Extensão LeadBooster</h3>
-                  <p className="">Disponível na Nova Central do CRMNet! Com a Extensão LeadBooster, sua empresa conseguirá captar mais leads, engajá-las e convertê-las. Incluso Chatbot, Formulários Web, Live Chat.</p>
-                  <p>Escolha o melhor plano para tomar decisões assertivas na sua empresa. O CRM é uma ferramenta essencial para sua equipe de vendas, marketing e para realização de pontos de contato. Com o CRMNet, haverá uma melhoria expressiva na gestão de relacionamento com o cliente, no funil de vendas, nos processos comerciais e no pós-venda. Os planos também estão disponíveis para serem aplicados em PME (Pequenas e Médias Empresas), empresas de cobranças, de seguro, de energia solar e as que atuam na área educacional.</p>
+                  <p className="">Disponível na Nova Central do CRM.Net! Com a Extensão LeadBooster, sua empresa conseguirá captar mais leads, engajá-las e convertê-las. Incluso Chatbot, Formulários Web, Live Chat.</p>
+                  <p>Escolha o melhor plano para tomar decisões assertivas na sua empresa. O CRM é uma ferramenta essencial para sua equipe de vendas, marketing e para realização de pontos de contato. Com o CRM.Net, haverá uma melhoria expressiva na gestão de relacionamento com o cliente, no funil de vendas, nos processos comerciais e no pós-venda. Os planos também estão disponíveis para serem aplicados em PME (Pequenas e Médias Empresas), empresas de cobranças, de seguro, de energia solar e as que atuam na área educacional.</p>
                   <p>A integração com Infoprodutos está disponível no plano Premium com contratação separadamente. No Plano Enterprise já vem incluída.</p>
                 </div>
               </div> */}

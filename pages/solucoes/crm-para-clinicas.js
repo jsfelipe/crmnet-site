@@ -9,7 +9,7 @@ function crmParaClinicas() {
   return (
     <>
      <Head>
-    <title>CRM para Clínicas | CRMNet</title>
+    <title>CRM para Clínicas | CRM.Net</title>
     </Head>
       <Header />
       <div className="page-content bg-cinza">

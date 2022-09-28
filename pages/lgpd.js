@@ -29,7 +29,7 @@ function Lgpd() {
                 <div className="row pb-5">
                     <div className="col-lg-12 col-sm-12 p-5">
                         <h5 className="strong">Politica de privacidade</h5>
-                        <p>Leia com atenção os termos que regem nossa relação. Antes de usar o CRMNet é importante que você leia e concorde com nossa política. Ao efetuar seu cadastro para utilização dos serviços, você concorda com nossa política, sem modificações.</p>
+                        <p>Leia com atenção os termos que regem nossa relação. Antes de usar o CRM.Net é importante que você leia e concorde com nossa política. Ao efetuar seu cadastro para utilização dos serviços, você concorda com nossa política, sem modificações.</p>
 
                         <h5 className="strong">Proprietário e Controlador de Dados</h5>
                         <p>B2 SOLUCOES EM TI E TELECOM LTDA, pessoa jurídica de direito privado, inscrita no CNPJ sob n. 46.747.621/0001-34, com sede na AV RIO BRANCO Nº 139, BAIRRO RECIFE, CIDADE RECIFE, PE, CEP 50.030-310</p>
@@ -89,8 +89,8 @@ function Lgpd() {
                         <p>Google OAuth (Google LLC)</p>
                         <p>Google Gmail (Google LLC)</p>
 
-                        <p>Ao se registrar ou autenticar, os Usuários permitem a este serviço (Sistema CRMNet) identificá-los e dar-lhes o acesso a serviços dedicados. Dependendo do que estiver descrito abaixo, os serviços de registro e autenticação podem ser fornecidos por terceiros. Neste caso, este Aplicativo poderá acessar alguns Dados armazenados por estes serviços de terceiros para fins de registro ou identificação.</p>
-                        <p>O Sistema CRMNet nunca utilizará a conta do usuário para envio de e-mail não autorizado.</p>
+                        <p>Ao se registrar ou autenticar, os Usuários permitem a este serviço (Sistema CRM.Net) identificá-los e dar-lhes o acesso a serviços dedicados. Dependendo do que estiver descrito abaixo, os serviços de registro e autenticação podem ser fornecidos por terceiros. Neste caso, este Aplicativo poderá acessar alguns Dados armazenados por estes serviços de terceiros para fins de registro ou identificação.</p>
+                        <p>O Sistema CRM.Net nunca utilizará a conta do usuário para envio de e-mail não autorizado.</p>
                         <p>O Google OAuth e Google Gmail é um serviço de registro e autenticação fornecido pelo Google LLC e está conectado à rede Google.</p>
                         <p>Dados Pessoais coletados: vários tipos de Dados como especificados na política de privacidade do serviço.</p>
                         <p>Lugar de processamento: EUA – Política de Privacidade. Participante do Privacy Shield.</p>

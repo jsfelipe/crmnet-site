@@ -66,11 +66,11 @@ function MyApp({ Component, pageProps })  {
       <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
       <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
       
-			<title>CRMNet - Gestão de Leads e Central Whatsapp integrado</title>
-      <meta property="og:description" content="CRMNet | Gestão de vendas e Atendimento |Central de atendimentro Whatsapp integrada . Teste Agora e Conheça o primeiro CRM com whatsapp." />
-      <meta name="description" content="CRMNet | Gestão de vendas e Atendimento |Central de atendimentro Whatsapp integrada . Teste Agora e Conheça o primeiro CRM com whatsapp." />
+			<title>CRM.Net - Gestão de Leads e Central Whatsapp integrado</title>
+      <meta property="og:description" content="CRM.Net | Gestão de vendas e Atendimento |Central de atendimentro Whatsapp integrada . Teste Agora e Conheça o primeiro CRM com whatsapp." />
+      <meta name="description" content="CRM.Net | Gestão de vendas e Atendimento |Central de atendimentro Whatsapp integrada . Teste Agora e Conheça o primeiro CRM com whatsapp." />
       <meta property="og:url" content="https://meets.com.br/" />
-      <meta property="og:site_name" content="CRMNet Online" />
+      <meta property="og:site_name" content="CRM.Net Online" />
 			<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon.png"/>
       {/* <link rel="stylesheet" type="text/css" href="https://gerador5.meets.com.br/widget/css" /> */}
 

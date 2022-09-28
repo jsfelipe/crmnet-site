@@ -9,7 +9,7 @@ function Sobre() {
   return (
     <>
     <Head>
-    <title>Sobre | CRMNet</title>
+    <title>Sobre | CRM.Net</title>
     </Head>
       <Header />
       <div className="page-content">

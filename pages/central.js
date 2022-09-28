@@ -10,7 +10,7 @@ function Central() {
   return (
     <>
      <Head>
-    <title>Central de Atendimento OMNICHANNEL | CRMNet</title>
+    <title>Central de Atendimento OMNICHANNEL | CRM.Net</title>
     </Head>
       <Header />
       <div className="page-content">
