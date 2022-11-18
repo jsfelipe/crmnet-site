@@ -72,7 +72,7 @@ function Integracoes() {
                       <div className="">
                         <h5 className="dlab-title m-b15">Instagram</h5>
                         {/* <Link href="" ><a className=" btn btn-info shadow rounded-xl" >Saiba mais</a></Link> */}
-                        <p>Em breve</p>
+                        
                       </div>
                     </div>
                   </div>  

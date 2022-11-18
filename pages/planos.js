@@ -16,20 +16,20 @@ function Planos() {
       <Header />
       <div className="page-content">
         {/* <!-- Banner  --> */}
-        <div className="dlab-bnr-inr style-2">
+        {/* <div className="dlab-bnr-inr style-2">
           <div className="container">
             <div className="dlab-bnr-inr-entry">
               <h1 className="mb-3">Planos</h1>
               <h5 className="mb-0">Comece com o CRM e escolha o que melhor atende seu negócio</h5>
             </div>
           </div>
-        </div>
+        </div> */}
         {/* <!-- Banner End --> */}
 
 
         <section className="solucoes">
               
-              <div className="container">
+              {/* <div className="container">
                 <div className="row align-items-center shadow banner-inner rounded pos-top m-mob p-4">
                   <div className="col-lg-4 col-sm-4 box-whats p-relative">
                     <img className="p-absolute central-whats" src="images/banner/central-whatsapp.png" alt="" />
@@ -82,7 +82,7 @@ function Planos() {
                     </p>
                   </div>
                 </div>
-              </section>
+              </section> */}
 
 
 
@@ -97,9 +97,9 @@ function Planos() {
 
               
 
-              <div className="container">
+              {/* <div className="container">
                 <PlanoPersonalizado />
-              </div>
+              </div> */}
 
               
         </section> 
