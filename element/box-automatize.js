@@ -12,7 +12,7 @@ function BoxAutomatize() {
 					<div className="">
 						<div className="section-head style-3 text-center">
 							<h2 className="title">Automatize</h2>
-							<h3 className="sub-title m-b20">Com o CRM.Net diversas atividades podem ser automáticas,<br/> aumentando assim a produtividade de sua equipe e empresas.</h3>
+							<h3 className="sub-title m-b20">Com a B2 CRM diversas atividades podem ser automáticas,<br/> aumentando assim a produtividade de sua equipe e empresas.</h3>
 						</div>
 						<div className="row">
 							<div class="col-lg-4 col-md-12">

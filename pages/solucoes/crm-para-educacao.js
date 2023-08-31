@@ -7,7 +7,7 @@ import Head from "next/head";
 function crmParaEducacao() {
   return (
     <> <Head>
-    <title>CRM para Educação, faculdades e Escolas | CRM.Net</title>
+    <title>CRM para Educação, faculdades e Escolas | B2 CRM</title>
     </Head>
       <Header />
       <div className="page-content bg-cinza">

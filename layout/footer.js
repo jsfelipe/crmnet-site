@@ -83,7 +83,7 @@ function Footer() {
             <div className="container">
                 <div className="row align-items-center">
                     <div className="col-md-12 text-center"> 
-						<span className="copyright-text">Copyright © 2022 CRM.Net Todos os direitos reservados.</span> 
+						<span className="copyright-text">Copyright © 2023 B2 CRM Todos os direitos reservados.</span> 
 					</div>
                 </div>
             </div>

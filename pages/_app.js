@@ -66,7 +66,7 @@ function MyApp({ Component, pageProps })  {
       <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
       <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
       
-			<title>CRM.Net - Gestão de Leads e Central Whatsapp integrado</title>
+			<title>B2 CRM - Gestão de Leads e Central Whatsapp integrado</title>
       <meta property="og:description" content="CRM.Net | Gestão de vendas e Atendimento |Central de atendimentro Whatsapp integrada . Teste Agora e Conheça o primeiro CRM com whatsapp." />
       <meta name="description" content="CRM.Net | Gestão de vendas e Atendimento |Central de atendimentro Whatsapp integrada . Teste Agora e Conheça o primeiro CRM com whatsapp." />
       <meta property="og:url" content="https://meets.com.br/" />

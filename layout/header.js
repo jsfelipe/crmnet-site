@@ -47,7 +47,7 @@ function Header() {
                             <div className="logo-header mostion logo-dark">
                                 <Link href="/">
                                     <a>
-                                        <img className="custom-logo-white" src="../images/logo-crm-net-branco.svg" alt="" />
+                                        <img className="custom-logo-white" src="../images/logo-crm-net.svg" alt="" />
                                         <img className="custom-logo" src="../images/logo-crm-net.svg" alt="" />
                                     </a>
                                 </Link>

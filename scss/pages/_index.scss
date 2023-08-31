@@ -55,6 +55,13 @@
         padding-top: 50px;
     }
 }
+.content-inner-numeros{
+    background: rgba(1,4,45,1);
+
+    h2, h3, span{
+        color: $white;
+    }
+}
 
 .content-inner-3 {
     padding-top   : 70px;

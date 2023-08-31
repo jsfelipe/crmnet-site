@@ -14,7 +14,7 @@ function OsRecursos() {
 					
 						<div className="container section-head style-3 text-center mb-2">
 							<h2 className="title">Recursos / Soluções</h2>
-							<h3 className="sub-title">Explore os diversos recursos que oferecemos unindo <br/>a versatilidade e adaptação ao seu tipo e volume de negócios</h3>
+							<h3 className="sub-title">Explore os diversos recursos que oferecemos unindo <br/>a versatilidade e adaptação ao seu tipo e volume de negócios:</h3>
 						</div>
 						<div className="container text-center">
 
@@ -28,8 +28,8 @@ function OsRecursos() {
 						  	<ul className="text-left">
 							  	<li><strong>Marketing</strong>: Saiba atrair, envolver e como agir.</li>
 								<li><strong>Vendas</strong>: Organize, promova e venda mais.</li>
-								<li><strong>Sucesso do Cliente</strong>: conheça mais sobre o seu cliente e saiba como encantá-lo.</li>
-								<li><strong>Suporte</strong>: ajude de forma rápida e prática o seu cliente.</li>
+								<li><strong>Sucesso do Cliente</strong>: Conheça mais sobre o seu cliente e saiba como encantá-lo.</li>
+								<li><strong>Suporte</strong>: Ajude de forma rápida e prática o seu cliente.</li>
 							</ul>
                           </div>
 						  </div>

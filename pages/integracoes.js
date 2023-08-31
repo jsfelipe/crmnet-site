@@ -11,7 +11,7 @@ function Integracoes() {
   return (
     <>
     <Head>
-    <title>Integrações | CRM.Net</title>
+    <title>Integrações | B2 CRM</title>
     </Head>
 
       <Header />
@@ -21,7 +21,7 @@ function Integracoes() {
           <div className="container">
             <div className="dlab-bnr-inr-entry">
               <h1>Integrações</h1>
-              <h5>Turbine seu CRM com as melhores ferramentas do mercado</h5>
+              <h5>Turbine seu B2 CRM com as melhores ferramentas do mercado</h5>
             </div>
           </div>
         </div>
@@ -33,8 +33,8 @@ function Integracoes() {
               <div className="container">
                 <div className="row align-items-center shadow banner-inner rounded pos-top m-mob">
                   <div className="col-lg-7 col-sm-7 pl-5 fadeInUp">
-                    <h2 className="mb-3 center-mob">Dê super poderes ao seu CRM</h2>
-                    <p className="mb-0">As diversas integrações nativas do CRM permitem que você utilize o CRM.Net como um Hub de leads . Você centraliza suas leads vindas de todas as fontes de tráfego e distribui elas para sua equipe de vendas, atendimento ou administrativa. 
+                    <h2 className="mb-3 center-mob">Dê super poderes ao seu B2 CRM</h2>
+                    <p className="mb-0">As diversas integrações nativas do permitem que você utilize a B2 CRM como um Hub de leads. Você centraliza seus leads vindas de todas as fontes de tráfego e distribui elas para sua equipe de vendas, atendimento ou administrativa. 
                     Conecte diretamente com várias canais de anúncios, ferramentas, landing pages. Você ainda tem a opção de usar nossa API ou integração com parceiros.</p>
                   </div>
                   <div className="col-lg-5 col-sm-5 box-homem p-relative">
@@ -143,65 +143,9 @@ function Integracoes() {
                       </div>
                     </div>
                   </div>      
-                  <div className="" data-aos="fade-up" data-aos-duration="300">
-                    <div className="shadow rounded m-3 p-4 text-center">
-                      <div className=""> 
-                          <img className="icon-int" src="images/icon/icon-vtcall.png" alt="" />
-                      </div>
-                      <div className="">
-                        <h5 className="dlab-title m-b15">Vtcall</h5>
-                        {/* <Link href=""><a className=" btn btn-info shadow rounded-xl" >Saiba mais</a></Link> */}
-                      </div>
-                    </div>
-                  </div>  
-                  <div className="" data-aos="fade-up" data-aos-duration="500">
-                    <div className="shadow rounded m-3 p-4 text-center">
-                      <div className=""> 
-                          <img className="icon-int" src="images/icon/icon-zenvia.png" alt="" />
-                      </div>
-                      <div className="">
-                        <h5 className="dlab-title m-b15">Zenvia</h5>
-                        {/* <Link href="" ><a className=" btn btn-info shadow rounded-xl" >Saiba mais</a></Link> */}
-                      </div>
-                    </div>
-                  </div>  
-                  <div className="" data-aos="fade-up" data-aos-duration="700">
-                    <div className="shadow rounded m-3 p-4 text-center">
-                      <div className=""> 
-                          <img className="icon-int" src="images/icon/icon-totalvoice.png" alt="" />
-                      </div>
-                      <div className="">
-                        <h5 className="dlab-title m-b15">Phonetrack</h5>
-                        {/* <Link href="" ><a className=" btn btn-info shadow rounded-xl" >Saiba mais</a></Link> */}
-                      </div>
-                    </div>
-                  </div>  
-                  <div className="" data-aos="fade-up" data-aos-duration="900">
-                    <div className="shadow rounded m-3 p-4 text-center">
-                      <div className=""> 
-                          <img className="icon-int" src="images/icon/icon-paco.png" alt="" />
-                      </div>
-                      <div className="">
-                        <h5 className="dlab-title m-b15">Falepaco</h5>
-                        {/* <Link href="" ><a className=" btn btn-info shadow rounded-xl" >Saiba mais</a></Link> */}
-                      </div>
-                    </div>
-                  </div>  
-                  {/* <div className="" data-aos="fade-up" data-aos-duration="1100">
-                    <div className="shadow rounded m-3 p-4 text-center">
-                      <div className=""> 
-                          <img className="icon-int" src="images/icon/icon-twilio.png" alt="" />
-                      </div>
-                      <div className="">
-                        <h5 className="dlab-title m-b15">Twilio</h5>
-                        <Link href="" ><a className=" btn btn-info shadow rounded-xl" >Saiba mais</a></Link>
-                      </div>
-                    </div>
-                  </div>   */}
                
                 </div>
               </div>
-
 
               <div className="container aplicativo">
                 

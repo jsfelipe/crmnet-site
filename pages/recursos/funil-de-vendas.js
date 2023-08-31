@@ -11,7 +11,7 @@ function FunilDeVendas() {
   return (
     <>
      <Head>
-    <title>Funil de Vendas | CRM.Net</title>
+    <title>Funil de Vendas | B2 CRM</title>
     </Head>
       <Header />
       <div className="page-content bg-cinza">
@@ -30,10 +30,9 @@ function FunilDeVendas() {
                     <Image className="img-mob mb-mob" src="/images/banner/produtividade.png" alt="" width={460} height={460} />
                     </div>
                     <div className="row col-lg-7 col-md-12">
-                      <h2>Aumente a produtividade do seu time e alavanque os resultados do seu negócio com o suporte dos funis de vendas e atendimento.</h2>
-                      <p>Crie e organize os funis de forma padrão para você e a sua equipe tomar as melhores decisões e visualizar os pontos de gargalo de seu processo comercial. Você pode criar diversos funis sem preocupação e integra-los.</p>
-                      <p>O funil de vendas é um recursos que evidencia toda a jornada de um cliente com a sua empresa, desde o primeiro contato estabelecido, quando ele demonstrou interesse pela sua marca, até o fechamento de algum negócio.
-                      O funil é composto por uma série de etapas que, em conjunto, dão suporte à jornada de compras dos perfis de clientes de um negócio.</p>
+                      <h2>Aumente a produtividade do seu time e alavanque os resultados do seu negócio.</h2>
+                      <p>O benefício de um funil de vendas personalizadoé a capacidade de criar uma jornada única para cada cliente em potencial, permitindo que você atenda às suas necessidades específicas em cada etapa do processo de vendas. Aqui estão alguns dos principais benefícios de um funil de vendas personalizado:</p>
+                      <p>Melhor compreenção do cliente: Com um funil de vendas personalizado, você pode segmentar e entender melhor o seu público-alvo. Isso significa que você pode adaptar suas estratégias de marketing e vendas para atender às necessidades específicas de cada segmento, proporcionando uma experiência mais personalizadas para os seus clientes em potencial. Além de você aumentar as chances de converter leads em clientes reais.</p>
                     </div>    
                 </div>
 
@@ -53,8 +52,8 @@ function FunilDeVendas() {
                     </div>
                     <div className="col-lg-7 col-md-12">
                       <h2>Melhore a performance da sua empresa com os funis</h2>
-                      <p>Crie os seus funis de vendas no CRM.Net cadastrando todas as etapas que você e a sua equipe comercial vão seguir, definindo os passos até chegar na venda final.</p>
-                      <p>Além disso, no CRM.Net você também pode criar múltiplos funis de atendimento para organizar melhor seu fluxo de vendas e atendimento. Ou mesmo usar alguns modelos que já temos disponível.</p>
+                      <p>Crie os seus funis de vendas no nosso CRM cadastrando todas as etapas que você e a sua equipe comercial vão seguir, definindo os passos até chegar na venda final.</p>
+                      <p>Além disso, com a B2 CRM você também pode criar múltiplos funis de atendimento para organizar melhor seu fluxo de vendas e atendimento. Ou mesmo usar alguns modelos que já temos disponível.</p>
                       <p>Você pode visualizar as suas oportunidades em grade e ficar por dentro de todas elas. Visualizando cada uma, você pode mudar uma oportunidade de etapa no seu funil de vendas, tudo muito rápido e com total praticidade de uma ação arraste e solte.</p>
                     </div> 
                 </div> 
