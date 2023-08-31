@@ -58,16 +58,16 @@ function Index() {
       console.log("Cadastro sucesso");
       // cadastrando oportunidade
       const oportunidade = await api_antiga.post('oportunidade/salvar', {
-        id_usuario :16751,
-        id_origem: '73657',
-        id_status: "[\"45764\"]",
+        //id_usuario :16751,
+        id_origem: '137074',
+        id_status: "[\"91614\"]",
 	      tipo_pessoa:'PJ',
 	      razao_cliente: state.name,
         celular_cliente: state.mobile,
 	      email_cliente:state.email
       }, {
         headers: {
-          'Authorization': '36FDCDB9-FF0D-D6B7-01EA-3A68D350B50C' 
+          'Authorization': '1B1420C8-2F24-9A07-9DC9-55948B9D82AE' 
         }
       })
       console.log({oportunidade});
