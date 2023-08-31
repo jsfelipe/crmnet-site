@@ -25,14 +25,14 @@ function TermosECondicoes() {
 
               <div className="container mb-mob">
                 <div className="row m-1 leia">
-                  <h6>Leia com atenção os termos que regem nossa relação. Antes de usar o Clinic Machine é importante que você leia e concorde com estes termos.<br/> Ao efetuar seu cadastro para utilização dos serviços, ou aceitar estes termos, você concorda com os termos, sem modificações.</h6>
+                  <h6>Leia com atenção os termos que regem nossa relação. Antes de usar a B2 CRM é importante que você leia e concorde com estes termos.<br/> Ao efetuar seu cadastro para utilização dos serviços, ou aceitar estes termos, você concorda com os termos, sem modificações.</h6>
                 </div>
               </div>
 
               <div className="container">
                 <h5 className="strong">Contrato de Licença de Usuário Final</h5>
                 <p>
-                Este Contrato de Licença de Usuário Final é um acordo legal entre o licenciado (pessoa física ou jurídica) (o “LICENCIADO”) e a Unity Brasil Tecnologia da Informação Ltda, pessoa jurídica de direito privado, inscrita no CNPJ sob n. 06.013.344/0001-11, com sede na Rua Ribeiro de Brito 930, – sala 1702, Boa Viagem, Recife/PE, CEP: 51030-420 – Brasil, (a “LICENCIANTE”) para uso do programa de computador denominado CRM.Net, disponibilizado neste ato pela LICENCIANTE (o “SOFTWARE”), pelo prazo determinado pelo LICENCIADO no ato do licenciamento do SOFTWARE, o que inclui o programa de computador e pode incluir os meios físicos associados, quaisquer materiais impressos, e qualquer documentação “online” ou eletrônica. Ao utilizar o SOFTWARE, mesmo que parcial ou a título de teste, o licenciado estará vinculado a este contrato, concordando com os mesmos, principalmente CONSENTINDO COM O ACESSO, COLETA, ARMAZENAMENTO, TRATAMENTO E TÉCNICAS DE PROTEÇÃO ÀS INFORMAÇÕES do LICENCIADO para a integral execução das funcionalidades ofertadas pelo SOFTWARE. Em caso de discordância dos termos aqui apresentados, a utilização do SOFTWARE deve ser imediatamente interrompida.</p>			
+                Este Contrato de Licença de Usuário Final é um acordo legal entre o licenciado (pessoa física ou jurídica) (o “LICENCIADO”) e a B2 TECNOLOGIA COMÉRCIO E SERVIÇOS LTDA, pessoa jurídica de direito privado, inscrita no CNPJ sob n. 18.954.592/0001-46, com sede na Av. Rio Branco, 139 - CEP 50030-310, - Recife/PE, Brasil, (a “LICENCIANTE”) para uso do programa de computador denominado CRM.Net, disponibilizado neste ato pela LICENCIANTE (o “SOFTWARE”), pelo prazo determinado pelo LICENCIADO no ato do licenciamento do SOFTWARE, o que inclui o programa de computador e pode incluir os meios físicos associados, quaisquer materiais impressos, e qualquer documentação “online” ou eletrônica. Ao utilizar o SOFTWARE, mesmo que parcial ou a título de teste, o licenciado estará vinculado a este contrato, concordando com os mesmos, principalmente CONSENTINDO COM O ACESSO, COLETA, ARMAZENAMENTO, TRATAMENTO E TÉCNICAS DE PROTEÇÃO ÀS INFORMAÇÕES do LICENCIADO para a integral execução das funcionalidades ofertadas pelo SOFTWARE. Em caso de discordância dos termos aqui apresentados, a utilização do SOFTWARE deve ser imediatamente interrompida.</p>			
               </div>
 
               <div className="container"> 
