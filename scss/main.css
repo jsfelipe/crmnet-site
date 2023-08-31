@@ -16,7 +16,7 @@
     
     
 */
-
+@import url(c:\Users\Diogo\Documents\JOBS\crmnet-site\vendor\animate\animate.min.css);
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap");
 @import url("../icons/line-awesome/css/line-awesome.min.css");
 @import url("../icons/font-awesome/css/font-awesome.min.css");
@@ -2979,7 +2979,7 @@ fieldset:disabled a.btn {
 
 .btn-info {
   color: #fff;
-  background-color: #5849be;
+  background-color: #00aeed;
   border-color: #00aeed;
 }
 
@@ -4642,7 +4642,7 @@ input[type="button"].btn-block {
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
   color: #fff;
-  background-color: #5849be;
+  background-color: #00aeed;
   border-color: #dee2e6 #dee2e6 #fff;
 }
 
@@ -13481,8 +13481,7 @@ section:after {
 }
 
 .bg-black {
-  background: -webkit-gradient(linear, left top, right top, color-stop(0, #191919), color-stop(51%, #2a2a2a), to(#2a2a2a));
-  background: linear-gradient(to right, #191919 0, #2a2a2a 51%, #2a2a2a 100%);
+  background: linear-gradient(45deg, #5cbac0 0%, #01042d 100%);
 }
 
 .sub-titulo {
@@ -18030,7 +18029,7 @@ textarea {
 .action-box.style-1 {
   position: relative;
   background: #00c9ff;
-  background: linear-gradient(45deg, #00c9ff 0%, #5849be 100%);
+  background: linear-gradient(45deg, #5cbac0 0%, #4498b9 100%);
   padding: 80px 80px;
   border-radius: 10px;
   -webkit-box-shadow: -3px 3px 5px rgba(0, 0, 0, 0.5);
@@ -18526,8 +18525,7 @@ ul.primary li:before {
 }
 
 .content-inner {
-  background: -webkit-gradient(linear, left top, right top, color-stop(0, #191919), color-stop(51%, #2a2a2a), to(#2a2a2a));
-  background: linear-gradient(to right, #191919 0, #2a2a2a 51%, #2a2a2a 100%);
+  background: linear-gradient(45deg, #5cbac0 0%, #01042d 100%);
   padding-top: 80px;
   padding-bottom: 20px;
   color: #fff;
@@ -18587,6 +18585,14 @@ ul.primary li:before {
   .content-inner-2 {
     padding-top: 50px;
   }
+}
+
+.content-inner-numeros {
+  background: #01042d;
+}
+
+.content-inner-numeros h2, .content-inner-numeros h3, .content-inner-numeros span {
+  color: #fff;
 }
 
 .content-inner-3 {
@@ -18960,8 +18966,7 @@ button.scroltop {
 }
 
 .banner-three {
-  background: -webkit-gradient(linear, left top, right top, color-stop(0, #009cea), color-stop(51%, #00c9ff), to(#00c9ff));
-  background: linear-gradient(to right, #009cea 0, #5849be 51%, #5849be 100%);
+  background: linear-gradient(45deg, #5cbac0 30%, #ffb423 73%, #e09100 100%);
   height: 850px;
   position: relative;
   background-position: bottom, top;
@@ -21250,8 +21255,7 @@ h1.c-at {
 }
 
 .studio-bi {
-  background: -webkit-gradient(linear, left top, right top, color-stop(0, #191919), color-stop(51%, #2a2a2a), to(#2a2a2a));
-  background: linear-gradient(to right, #191919 0, #2a2a2a 51%, #2a2a2a 100%);
+  background: linear-gradient(45deg, #5cbac0 0%, #01042d 100%);
   font-size: 2em;
   color: #fff;
   font-style: italic;
@@ -21417,8 +21421,7 @@ h1.c-at {
 }
 
 .box-meu-plano {
-  background: -webkit-gradient(linear, left top, right top, color-stop(0, #191919), color-stop(51%, #2a2a2a), to(#2a2a2a));
-  background: linear-gradient(to right, #191919 0, #2a2a2a 51%, #2a2a2a 100%);
+  background: linear-gradient(45deg, #5cbac0 0%, #01042d 100%);
 }
 
 .meu-plano {
@@ -21538,14 +21541,16 @@ th, td {
 
 .page-teste {
   height: 100vh;
-  background: -webkit-gradient(linear, left top, right top, color-stop(0, #009cea), color-stop(51%, #00c9ff), to(#00c9ff));
-  background: linear-gradient(to right, #009cea 0, #00c9ff 51%, #00c9ff 100%);
+  background: linear-gradient(45deg, #5cbac0 30%, #ffb423 73%, #e09100 100%);
 }
 
 .page-teste .chamada-teste {
-  background: -webkit-gradient(linear, left top, right top, color-stop(0, #191919), color-stop(51%, #2a2a2a), to(#2a2a2a));
-  background: linear-gradient(to right, #191919 0, #2a2a2a 51%, #2a2a2a 100%);
+  background: linear-gradient(45deg, #5cbac0 0%, #01042d 100%);
   border-radius: 10px 0 0 10px;
+}
+
+.page-teste .chamada-teste img {
+  width: 30%;
 }
 
 .page-teste .formulario-teste {
@@ -21578,8 +21583,7 @@ th, td {
 }
 
 .seja-parceiro {
-  background: -webkit-gradient(linear, left top, right top, color-stop(0, #191919), color-stop(51%, #2a2a2a), to(#2a2a2a));
-  background: linear-gradient(to right, #191919 0, #2a2a2a 51%, #2a2a2a 100%);
+  background: linear-gradient(45deg, #5cbac0 0%, #01042d 100%);
 }
 
 table.porcentagem {
@@ -21683,11 +21687,11 @@ table.porcentagem {
   vertical-align: middle;
   padding: 0;
   color: #EFBB20;
-  margin-top: 1.7em;
+  margin-top: 1.3em;
   margin-bottom: 0;
   margin-left: 0;
   margin-right: 0;
-  width: 100px;
+  width: 50px;
   height: 35px;
   position: relative;
   z-index: 9;
@@ -22723,8 +22727,7 @@ table.porcentagem {
 }
 
 .dlab-bnr-inr {
-  background: -webkit-gradient(linear, left top, right top, color-stop(0, #009cea), color-stop(51%, #00c9ff), to(#00c9ff));
-  background: linear-gradient(to right, #009cea 0, #00c9ff 51%, #00c9ff 100%);
+  background: linear-gradient(45deg, #5cbac0 30%, #ffb423 73%, #e09100 100%);
   height: 270px;
   background-size: cover;
   background-position: center;
@@ -23032,8 +23035,7 @@ table.porcentagem {
 }
 
 footer {
-  background: -webkit-gradient(linear, left top, right top, color-stop(0, #009cea), color-stop(51%, #5849be), to(#5849be));
-  background: linear-gradient(to right, #009cea 0, #5849be 51%, #5849be 100%);
+  background: linear-gradient(45deg, #5cbac0 30%, #ffb423 73%, #e09100 100%);
   color: #fff;
   font-size: 15px;
 }
@@ -23273,7 +23275,6 @@ footer .widget_getintuch ul li i {
   left: 0;
   font-size: 22px;
 }
-.test{}
 
 @media (max-width: 760px) {
   footer .widget a {

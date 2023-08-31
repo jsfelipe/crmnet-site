@@ -8,7 +8,7 @@ function crmParaWhiteLabel() {
   return (
     <>
      <Head>
-    <title>CRM Whitelabel | CRM.Net</title>
+    <title>CRM Whitelabel | B2 CRM</title>
     </Head>
       <Header />
       <div className="page-content bg-cinza">

@@ -12,7 +12,7 @@ function Importacoes() {
   return (
     <>
      <Head>
-    <title>Importações | CRM.Net</title>
+    <title>Importações | B2 CRM</title>
     </Head>
       <Header />
       <div className="page-content bg-cinza">
@@ -31,9 +31,9 @@ function Importacoes() {
                     <Image className="img-mob mb-mob" src="/images/banner/importar-meets.png" alt="" width={460} height={460} />
                   </div>
                   <div className="row col-lg-7 col-md-12">     
-                    <h2>Importe os dados de outro CRM para o CRM.Net</h2>
-                      <p>Com o CRM.Net você pode importar os seus contatos, empresas, oportunidades e dados dos mais diversos de outro CRM ou de planilhas , inclusive o Google Drive.</p>
-                      <p>Se você já conta com uma outra solução em CRM e quer mudar para o CRM CRM.Net, deve se perguntar se isso é possível. A resposta é SIM! Você pode importar negócios e todas as suas informações.</p>
+                    <h2>Importe os dados de outro CRM para o B2 CRM</h2>
+                      <p>Com a B2 CRM você pode importar os seus contatos, empresas, oportunidades e dados dos mais diversos de outro CRM ou de planilhas , inclusive o Google Drive.</p>
+                      <p>Se você já conta com uma outra solução em CRM e quer mudar para a B2 CRM, deve se perguntar se isso é possível. A resposta é SIM! Você pode importar negócios e todas as suas informações.</p>
                   </div>
                 </div>
 
@@ -43,8 +43,8 @@ function Importacoes() {
                   </div>
                   <div className="row col-lg-7 col-md-12">     
                     <h2>Se você já conta com uma base<br/>de contatos, não se preocupe!</h2>
-                    <p>O CRM.Net permite importar contatos a qualquer momento, em poucos passos e sem maiores complicações, além disso dispõe da função de exclusão de importações realizadas, caso não tenha entrado da maneira correta.</p>
-                    <p>Com o CRM.Net você pode importar todos os seus contatos/clientes a partir de um arquivo .CSV ou através da integração com o Google Sheets. </p>
+                    <p>O B2 CRM permite importar contatos a qualquer momento, em poucos passos e sem maiores complicações, além disso dispõe da função de exclusão de importações realizadas, caso não tenha entrado da maneira correta.</p>
+                    <p>Com a B2 CRM você pode importar todos os seus contatos/clientes a partir de um arquivo .CSV ou através da integração com o Google Sheets. </p>
                   </div>
                 </div>
 

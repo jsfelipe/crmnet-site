@@ -9,7 +9,7 @@ function BoxIntegracoes() {
 				<div className="row align-items-center mb-4">
 					<div className="col-lg-6 col-sm-6 center-mob">
                     	<h2 className="title">Integrações</h2>
-                    	<p>Dê mais robustez ao seu CRM com mais de 30 ferramentas integradas de forma nativa além de várias outras via o integrador de terceiros.</p>
+                    	<p>Dê mais robustez ao seu B2 CRM com mais de 30 ferramentas integradas de forma nativa além de várias outras via o integrador de terceiros.</p>
 						<p className="cinza">Conheça todas as ferramentas disponíveis até o momento.</p>
 						<ul className="d-flex center-mob">
 							<li><Link href="/integracoes"><a className="btn btn-primary mr-3 btn-round" data-aos="fade-up" data-aos-duration="300">Integrações nativas</a></Link></li>

@@ -64,7 +64,8 @@ const renderArrows = () => {
                                 </div>
                                 <h2 className="">Indústria</h2>
                                 <p>
-                                Com a utilização de um CRM na sua indústria, será possível compreender melhor o Workflow, conseguir gerar orçamentos e entender mais da cadência de pedidos, analisando a recorrência e o fluxo de ações automatizadas. O CRM.Net também faz integrações com sistemas ERPs (Enterprise Resource Planning), como o Bling e o Conta Azul.
+                                Com a utilização da B2 CRM na sua indústria, será possível compreender melhor o Workflow, conseguir gerar orçamentos e entender mais da cadência de pedidos, analisando a recorrência e o fluxo de ações automatizadas. 
+                                A B2 CRM também faz integrações com sistemas ERPs (Enterprise Resource Planning), como o Bling e o Conta Azul.
                                 </p>
                             </div>
                         </div>
@@ -76,7 +77,7 @@ const renderArrows = () => {
                                 </div>
                                 <h2 className="">Comércio</h2>
                                 <p>
-                                O CRM integra as operações e auxilia o domínio da Jornada do Cliente, facilitando processos e reduzindo custos. Atrelando ao seu E-commerce, será ainda mais fácil obter uma visão estratégica, resolver problemas, tomar decisões e trabalhar no Sucesso do Cliente.
+                                A B2 CRM integra as operações e auxilia o domínio da Jornada do Cliente, facilitando processos e reduzindo custos. Atrelando ao seu E-commerce, será ainda mais fácil obter uma visão estratégica, resolver problemas, tomar decisões e trabalhar no Sucesso do Cliente.
                                 </p>
                             </div>
                         </div>
@@ -88,7 +89,7 @@ const renderArrows = () => {
                                 </div>
                                 <h2 className="">Serviços</h2>
                                 <p>
-                                O CRM.Net integrado aos serviços será utilizado no atendimento e suporte a venda, compreendendo sobre as necessidades/problemas das leads. Além disso, com a aplicação do CRM, ficará mais acessível ao histórico e informações, facilitando o fluxo de trabalho e otimizando a produtividade da sua equipe.
+                                A B2 CRM integrado aos serviços será utilizado no atendimento e suporte a venda, compreendendo sobre as necessidades/problemas das leads. Além disso, com a aplicação da B2 CRM, ficará mais acessível ao histórico e informações, facilitando o fluxo de trabalho e otimizando a produtividade da sua equipe.
                                 </p>
                             </div>
                         </div>

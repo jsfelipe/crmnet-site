@@ -20,7 +20,7 @@ function Central() {
             <div className="dlab-bnr-inr-entry">
               <h1>Central de Atendimento</h1>
               {/* <!-- Breadcrumb Row --> */}
-              <h5>OMNICHANNEL COM CRM COMPLETO</h5>
+              <h5>OMNICHANNEL COM O CRM COMPLETO</h5>
               {/* <!-- Breadcrumb Row End --> */}
             </div>
           </div>

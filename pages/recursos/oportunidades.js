@@ -12,7 +12,7 @@ function Oportunidades() {
   return (
     <>
      <Head>
-    <title>Controle de Oportunidades e Negócios | CRM.Net</title>
+    <title>Controle de Oportunidades e Negócios | B2 CRM</title>
     </Head>
       <Header />
       <div className="page-content bg-cinza">
@@ -32,7 +32,7 @@ function Oportunidades() {
                       </div>
                       <div className="col-md-7">
                         <h2 className="mb-3 center-mob">Gerencie suas oportunidades</h2>
-                        <p>Em uma única tela, você encontra todos os dados necessários sobre as suas oportunidades, tudo muito simples e rápido! Como deve ser.  Dessa forma, você e toda a sua equipe estará munida de informações importantes para planejar e executar estratégias mais assertivas. Nas oportunidades você pode acessar os atendimentos e ainda enviar whatsapp, sms ,email ou ligar para seu cliente de modo centralizado, o que otimiza os processos e permite que você e a sua equipe conheçam melhor cada cliente.</p>
+                        <p>Em uma única tela, você encontra todos os dados necessários sobre as suas oportunidades, tudo muito simples e rápido! Como deve ser. Dessa forma, você e toda a sua equipe estará munida de informações importantes para planejar e executar estratégias mais assertivas. Nas oportunidades você pode acessar os atendimentos e ainda enviar whatsapp, sms ,email ou ligar para seu cliente de modo centralizado, o que otimiza os processos e permite que você e a sua equipe conheçam melhor cada cliente.</p>
                       </div>
                   </div>
                   <div className="row align-items-center mb-5 flex-row-reverse">
@@ -41,7 +41,7 @@ function Oportunidades() {
                     </div>
                     <div className="col-lg-7 col-sm-7">
                       <h2 className="mb-3 center-mob">Organize suas oportunidades</h2>
-                      <p>Na tela de oportunidades você tem em mãos uma listagem completa de todas as suas oportunidades, a partir da qual é possível construir poderosos filtros e combiná-los de acordo com os objetivos traçados. Como exemplo: segmentar melhor suas leads para campanhas.</p>
+                      <p>Na tela de oportunidades você tem em mãos uma listagem completa de todas as suas oportunidades, a partir da qual é possível construir poderosos filtros e combiná-los de acordo com os objetivos traçados. Como exemplo: segmentar melhor seus leads para campanhas.</p>
                       <p>No menu você dispõe de uma visualização por grade, com um layout fácil de visualizar, o qual permite uma melhor organização e acompanhamento das oportunidades. Com alguns cliques e arrastando você pode mudar uma oportunidade de etapa no seu funil de vendas, inserir e atualizar aquela oportunidade.</p>
                     </div>
                   </div>
@@ -68,7 +68,7 @@ function Oportunidades() {
                 <div className="row mt-5">
                   <div className="col-md-6">
                   <h4 className="center-mob">Cadastro de oportunidades</h4>
-                  <p>O CRM.Net tem como filosofia facilitar a vida dos usuários, não é a toa que chamam ele do Iphone dos CRMS e, para isso, dispõe de recursos que facilitam a sua vida.
+                  <p>A B2 CRM tem como filosofia facilitar a vida dos usuários, não é a toa que chamam a B2 do Iphone dos CRMS e, para isso, dispõe de recursos que facilitam a sua vida.
                     Cadastrando uma oportunidade você pode inserir dados de contato do cliente, tags, funis, compartilhar com outros membros da equipe, adicionar produtos, entre outras informações, que otimizam o seu trabalho e o da sua equipe.</p>
                   </div>
                   <div className="col-md-6">

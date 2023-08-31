@@ -9,7 +9,7 @@ function crmParaInfoprodutos() {
   return (
     <>
      <Head>
-    <title>CRM para Infoprodutos | CRM.Net</title>
+    <title>CRM para Infoprodutos | B2 CRM</title>
     </Head>
       <Header />
       <div className="page-content bg-cinza">
@@ -44,7 +44,7 @@ function crmParaInfoprodutos() {
                     </div>
                     <div className="col-lg-7 col-sm-7">
                     <h2 className="pt-mob">Tráfego</h2>
-                    <p>O aumento do seu tráfego, diminuindo custos e otimizando resultados em seu site, é uma estratégia que a aplicação da CRM.Net trabalha na utilização do CRM no seu domínio para infoprodutos. </p>
+                    <p>O aumento do seu tráfego, diminuindo custos e otimizando resultados em seu site, é uma estratégia que a aplicação da B2 CRM trabalha na utilização do CRM no seu domínio para infoprodutos. </p>
                     </div>
                 </div>
                 <div className="row align-items-center mb-mob center-mob">
@@ -53,7 +53,7 @@ function crmParaInfoprodutos() {
                     </div>
                     <div className="col-lg-7 col-sm-7">
                     <h2 className="pt-mob">Comunicação</h2>
-                    <p>Aumentar a comunicação com os potenciais clientes, utilizando os canais necessários e essenciais, como o WhatsApp, é possibilitado com o CRM.Net Com a nossa central de atendimento e vendas, sua empresa conseguirá alavancar métricas do Customer Experience (CX) e Customer Success (CS), importantes para melhoria comunicacional.</p>
+                    <p>Aumentar a comunicação com os potenciais clientes, utilizando os canais necessários e essenciais, como o WhatsApp, é possibilitado com o B2 CRM Com a nossa central de atendimento e vendas, sua empresa conseguirá alavancar métricas do Customer Experience (CX) e Customer Success (CS), importantes para melhoria comunicacional.</p>
                     </div>
                 </div>
                 <div className="row align-items-center flex-row-reverse mb-mob center-mob">

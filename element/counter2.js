@@ -3,7 +3,7 @@ function Counter2() {
     return (
       <>
         {/* <!-- Counters 2 --> */}
-		<section className="content-inner pb-5"> 
+		<section className="content-inner-numeros pt-4 pb-5"> 
 
 				<div className="section-head style-3 text-center">
 					<h2 className="title">Nossos números</h2>
