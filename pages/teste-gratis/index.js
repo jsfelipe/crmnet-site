@@ -24,6 +24,7 @@ function Index() {
     mobile: null,
     showErrorPassword: false,
     showErrorEmailExist: false,
+    white_label_parent: 19861
   });
 
   const [loading, setLoading] = useState(false)
